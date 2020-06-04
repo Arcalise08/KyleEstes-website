@@ -3,9 +3,8 @@ import Unity, { UnityContent } from "react-unity-webgl";
 import NavMenu from './components/NavBar';
 import {
     BrowserRouter as Router,
-    Switch,
-    Route,
-    Link,
+    Redirect,
+    Route
 } from "react-router-dom";
 
 import './App.css';
@@ -26,8 +25,9 @@ const unityContent = new UnityContent(
 function App() {
 
   return (
-      <Router>
+      <Router basename="https://github.com/Arcalise08/KyleEstes/">
           <NavMenu/>
+          <Redirect from="" to="/Home"/>
           <Route path="/Home" render={() => <Home/>}/>
           <Route path="/Projects" render={() => <Projects/>}/>
       </Router>
