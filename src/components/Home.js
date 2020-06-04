@@ -44,6 +44,7 @@ class Home extends React.Component {
                             About Me
                         </Card.Title>
                         <Card.Body style={{fontFamily: "Lato"}}>
+                            So I guess first off, My name is <span style={{color:"#802f1d"}}>Julian Estes</span> however i go by <span style={{color:"#327ba8"}}>Kyle Estes!</span>
                             I've loved software and game development since i was a kid. I've always been excited in how you can
                             put a few snippits of code together and watch something come to life! Its been my dream since I was
                             a kid to get in the development field! To that end I've been practicing c# for years! More recently
