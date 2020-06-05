@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/KyleEstes-website/precache-manifest.971eb125bf6b2b723d94382bf3e8e56c.js"
+  "/KyleEstes-website/precache-manifest.f14f12b6372e77723a0240590c78c76d.js"
 );
 
 self.addEventListener('message', (event) => {
