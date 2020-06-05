@@ -1,27 +1,26 @@
 {
   "files": {
     "main.css": "/KyleEstes-website/static/css/main.8d668f6d.chunk.css",
-    "main.js": "/KyleEstes-website/static/js/main.987b4699.chunk.js",
-    "main.js.map": "/KyleEstes-website/static/js/main.987b4699.chunk.js.map",
+    "main.js": "/KyleEstes-website/static/js/main.30568bd8.chunk.js",
+    "main.js.map": "/KyleEstes-website/static/js/main.30568bd8.chunk.js.map",
     "runtime-main.js": "/KyleEstes-website/static/js/runtime-main.5785877c.js",
     "runtime-main.js.map": "/KyleEstes-website/static/js/runtime-main.5785877c.js.map",
     "static/css/2.af3c1da9.chunk.css": "/KyleEstes-website/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.0e6f790c.chunk.js": "/KyleEstes-website/static/js/2.0e6f790c.chunk.js",
-    "static/js/2.0e6f790c.chunk.js.map": "/KyleEstes-website/static/js/2.0e6f790c.chunk.js.map",
+    "static/js/2.8e46b8e2.chunk.js": "/KyleEstes-website/static/js/2.8e46b8e2.chunk.js",
+    "static/js/2.8e46b8e2.chunk.js.map": "/KyleEstes-website/static/js/2.8e46b8e2.chunk.js.map",
     "index.html": "/KyleEstes-website/index.html",
-    "precache-manifest.3688e9318a8504b041d4187b6697c185.js": "/KyleEstes-website/precache-manifest.3688e9318a8504b041d4187b6697c185.js",
+    "precache-manifest.214d75b1b521f6ec58eb977ae011a7d4.js": "/KyleEstes-website/precache-manifest.214d75b1b521f6ec58eb977ae011a7d4.js",
     "service-worker.js": "/KyleEstes-website/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/KyleEstes-website/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.8d668f6d.chunk.css.map": "/KyleEstes-website/static/css/main.8d668f6d.chunk.css.map",
-    "static/js/2.0e6f790c.chunk.js.LICENSE.txt": "/KyleEstes-website/static/js/2.0e6f790c.chunk.js.LICENSE.txt",
-    "static/media/clipart.png": "/KyleEstes-website/static/media/clipart.ab41dc77.png",
-    "static/media/profile.jpg": "/KyleEstes-website/static/media/profile.60c317b5.jpg"
+    "static/js/2.8e46b8e2.chunk.js.LICENSE.txt": "/KyleEstes-website/static/js/2.8e46b8e2.chunk.js.LICENSE.txt",
+    "static/media/clipart.png": "/KyleEstes-website/static/media/clipart.ab41dc77.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5785877c.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.0e6f790c.chunk.js",
+    "static/js/2.8e46b8e2.chunk.js",
     "static/css/main.8d668f6d.chunk.css",
-    "static/js/main.987b4699.chunk.js"
+    "static/js/main.30568bd8.chunk.js"
   ]
 }
