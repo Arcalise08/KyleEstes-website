@@ -15,7 +15,7 @@ class Home extends React.Component {
                     <ParticlesBg num="20" color="#b51204" className="sandwich" type="cobweb" bg={true}/>
                 </MediaQuery>
                 <MediaQuery minWidth={576}>
-                    <ParticlesBg color="#b51204" type="cobweb" className="sandwich" bg={true}/>
+                    <ParticlesBg color="#b51204" type="cobweb" bg={true}/>
                 </MediaQuery>
 
                 <h2 id="title" className="text-center" >
@@ -58,9 +58,6 @@ class Home extends React.Component {
                             <br/>Specialities: Javascript & JS frameworks Vue, React, Angular, C#; Object-Oriented programming
                         </Card.Body>
                     </Card>
-                    <MediaQuery maxWidth={576}>
-                        <ParticlesBg num="20" color="#b51204" type="cobweb" bg={true}/>
-                    </MediaQuery>
                     <Card className="mt-2 mb-5">
                         <Card.Title style={{color: "#4d8a8c"}}  className="text-center mt-2">
                             Inquiries
@@ -77,12 +74,6 @@ class Home extends React.Component {
                         </Card.Body>
                     </Card>
                 </div>
-                <MediaQuery maxWidth={576}>
-                    <ParticlesBg num="20" color="#b51204" type="cobweb" bg={true}/>
-                </MediaQuery>
-                <MediaQuery minWidth={576}>
-                    <ParticlesBg color="#b51204" type="cobweb" bg={true}/>
-                </MediaQuery>
                 <small className='d-block text-center mt-3'>Made with <span style={{color: "#3293a8"}}>React</span> by <span style={{color:"red"}}>Julian Estes</span></small>
             </div>
         )

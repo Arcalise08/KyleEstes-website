@@ -8,10 +8,10 @@ class ProjectCard extends React.Component {
         return (
 
             <Card className=" mx-auto my-2 col-md-6">
-                <Card.Title>
-                    {project.name}
+                <Card.Title >
+                    <h3 className="mt-3">{project.name}</h3>
                 </Card.Title>
-                <Card.Body>
+                <Card.Body className="pt-0">
                     {project.description ? project.description :"Description not available"}
                     <br/>
                     {project.archived ? "This project has been shelved for now!" : "This project is still active!"}

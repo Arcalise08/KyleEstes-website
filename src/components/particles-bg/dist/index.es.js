@@ -217,7 +217,7 @@ var Canvas = function (_React$Component) {
   }, {
     key: "getStyle",
     value: function getStyle() {
-      var style = { width: "100%", height: "120%" };
+      var style = { width: "100%", height: "140%" };
 
       if (this.props.bg) {
         style = Object.assign(style, {
