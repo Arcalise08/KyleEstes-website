@@ -1,6 +1,6 @@
 import React from "react";
 import MediaQuery from "react-responsive/src/Component";
-import ParticlesBg from "particles-bg";
+import ParticlesBg from "./particles-bg";
 import clipart from "../img/clipart.png";
 import Card from "react-bootstrap/Card";
 
@@ -12,10 +12,10 @@ class Home extends React.Component {
         return (
             <div className="App">
                 <MediaQuery maxWidth={576}>
-                    <ParticlesBg num="20" color="#b51204" type="cobweb" bg={true}/>
+                    <ParticlesBg num="20" color="#b51204" className="sandwich" type="cobweb" bg={true}/>
                 </MediaQuery>
                 <MediaQuery minWidth={576}>
-                    <ParticlesBg color="#b51204" type="cobweb" bg={true}/>
+                    <ParticlesBg color="#b51204" type="cobweb" className="sandwich" bg={true}/>
                 </MediaQuery>
 
                 <h2 id="title" className="text-center" >
@@ -26,7 +26,7 @@ class Home extends React.Component {
                 </h5>
                 <div>
                     <div className="titleBackground mx-auto col-md-6">
-                        <img className="d-block mx-auto titleClipart" height="300px" width="300px" src={clipart}/>
+                        <img className="d-block mx-auto titleClipart" alt="Meaningless clipart. fun though." height="300px" width="300px" src={clipart}/>
                     </div>
                 </div>
                 <div className="mx-auto col-md-6 mt-4">

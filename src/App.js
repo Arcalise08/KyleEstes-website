@@ -10,9 +10,6 @@ import {
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-//images
-import clipart from './img/clipart.png';
-import myPic from './img/profile.jpg'
 //my components
 import Home from "./components/Home";
 import Projects from "./components/Projects";

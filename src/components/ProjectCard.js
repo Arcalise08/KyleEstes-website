@@ -2,9 +2,6 @@ import React from "react";
 import Card from "react-bootstrap/Card";
 
 class ProjectCard extends React.Component {
-    constructor() {
-        super();
-    }
 
     render() {
         const { project } = this.props

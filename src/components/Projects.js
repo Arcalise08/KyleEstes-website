@@ -1,9 +1,7 @@
 import React from "react";
 import MediaQuery from "react-responsive/src/Component";
-import ParticlesBg from "particles-bg";
+import ParticlesBg from "./particles-bg";
 import axios from 'axios';
-import clipart from "../img/clipart.png";
-import Card from "react-bootstrap/Card";
 import ProjectCard from "./ProjectCard";
 
 class Projects extends React.Component {

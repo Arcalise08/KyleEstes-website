@@ -11,8 +11,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f3c20b8-95b2-461b-9477-85f1ae974cc7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/particles-bg/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/particles-bg/dist/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/particles-bg/dist/index.es.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/particles-bg/dist/index.es.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/particles-bg/dist/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/particles-bg/dist/index.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/particles-bg/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ProjectCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ProjectCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Projects.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +55,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -53,6 +64,9 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Demon\OneDrive\Desktop\School Projects\FullStack\mysite\src\components" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Demon\OneDrive\Desktop\School Projects\FullStack\mysite\src\__test__" />
     </key>
@@ -83,7 +97,9 @@
       <option name="presentableId" value="Default" />
       <updated>1591240074501</updated>
       <workItem from="1591240075610" duration="16233000" />
-      <workItem from="1591302804426" duration="13455000" />
+      <workItem from="1591302804426" duration="14616000" />
+      <workItem from="1591317493972" duration="1138000" />
+      <workItem from="1591318701966" duration="599000" />
     </task>
     <servers />
   </component>
@@ -114,6 +130,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="724" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1591308800279" />
+    <state x="640" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1591317427149">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591317427149" />
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591257635498">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
