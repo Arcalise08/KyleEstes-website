@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6d24af27259a5d2814d27a55bcb3314b",
+    "revision": "8b00a35546feb54fd47487a18982214b",
     "url": "/KyleEstes-website/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/KyleEstes-website/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "9e49b49ebfa642dea470",
+    "revision": "93817f8e8a9c3f3c9825",
     "url": "/KyleEstes-website/static/css/main.8d668f6d.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/KyleEstes-website/static/js/2.0e6f790c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9e49b49ebfa642dea470",
-    "url": "/KyleEstes-website/static/js/main.82b5d461.chunk.js"
+    "revision": "93817f8e8a9c3f3c9825",
+    "url": "/KyleEstes-website/static/js/main.987b4699.chunk.js"
   },
   {
     "revision": "b2e30a5066abeac60de3",
