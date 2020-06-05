@@ -24,9 +24,8 @@ function App() {
   return (
       <Router basename="/KyleEstes-website">
           <NavMenu/>
-          <Redirect from="" to="/Home"/>
-          <Route path="/Home" render={() => <Home/>}/>
-          <Route path="/Projects" render={() => <Projects/>}/>
+          <Route path="/projects" render={() => <Projects/>}/>
+          <Route path="/" render={() => <Home/>}/>
       </Router>
 
   );
