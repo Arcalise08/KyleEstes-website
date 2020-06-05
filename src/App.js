@@ -25,7 +25,7 @@ const unityContent = new UnityContent(
 function App() {
 
   return (
-      <Router basename="https://github.com/Arcalise08/KyleEstes/">
+      <Router>
           <NavMenu/>
           <Redirect from="" to="/Home"/>
           <Route path="/Home" render={() => <Home/>}/>
