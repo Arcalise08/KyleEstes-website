@@ -49,8 +49,8 @@ class Home extends React.Component {
                             put a few snippits of code together and watch something come to life! Its been my dream since I was
                             a kid to get in the development field! To that end I've been practicing c# for years! More recently
                             i've been learning javascript for some web development(front and backend) experience. I've learned
-                            several frameworks (Vue, React, & Angular). I'm also certified by Careerfoundry in the M.E.R.N
-                            (or M.E.A.N... or... M.E.V.N... but that doesnt sound as cool) tech stack. I absolutely love
+                            several frameworks (Vue, React, & Angular). I'm also certified by Careerfoundry in the <span style={{color: "blue"}}>M.E.R.N</span>
+                            (or <span style={{color: "red"}}>M.E.A.N</span>... or... <span style={{color: "green"}}>M.E.V.N</span>... but that doesnt sound as cool) tech stack. I absolutely love
                             what I do and I bring that passion and love to any project I work on.
                             <br/>
                             <br/>I know theres still a ton to learn. I learn new things every day and I'm up for any challenge that anyone can present to me!

@@ -2,7 +2,7 @@ import React from 'react';
 import Unity, { UnityContent } from "react-unity-webgl";
 import NavMenu from './components/NavBar';
 import {
-    BrowserRouter as Router,
+    HashRouter as Router,
     Redirect,
     Route
 } from "react-router-dom";
@@ -22,11 +22,10 @@ const unityContent = new UnityContent(
 function App() {
 
   return (
-      <Router basename="/KyleEstes-website">
+      <Router hashType="slash">
           <NavMenu/>
           <Route exact path="/" render={() => <Home/>}/>
           <Route path="/projects" render={() => <Projects/>}/>
-
       </Router>
 
   );

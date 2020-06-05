@@ -13,6 +13,7 @@
     <list default="true" id="3f3c20b8-95b2-461b-9477-85f1ae974cc7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/ProjectCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ProjectCard.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +32,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="ProjectId" id="1cpyxPNiXRxh6RuTzUCDRnBYMXB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -91,7 +95,7 @@
       <workItem from="1591302804426" duration="14616000" />
       <workItem from="1591317493972" duration="1138000" />
       <workItem from="1591318701966" duration="2041000" />
-      <workItem from="1591321110528" duration="684000" />
+      <workItem from="1591321110528" duration="2923000" />
     </task>
     <servers />
   </component>

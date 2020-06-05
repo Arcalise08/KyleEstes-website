@@ -14,7 +14,7 @@ class ProjectCard extends React.Component {
                 <Card.Body className="pt-0">
                     {project.description ? project.description :"Description not available"}
                     <br/>
-                    {project.archived ? <span style={{color: "red"}}>"This project has been shelved for now!"</span> : <span style={{color: "green"}}>"This project is still active!"</span>}
+                    {project.archived ? <span style={{color: "red"}}>--This project has been shelved for now!--</span> : <span style={{color: "green"}}>--This project is still active!--</span>}
                     <br/>
                     <a href={"https://github.com/Arcalise08/" + project.name } target="_blank">Github Link</a>
                     <br/>
