@@ -24,8 +24,9 @@ function App() {
   return (
       <Router basename="/KyleEstes-website">
           <NavMenu/>
+          <Route exact path="/" render={() => <Home/>}/>
           <Route path="/projects" render={() => <Projects/>}/>
-          <Route path="/" render={() => <Home/>}/>
+
       </Router>
 
   );
