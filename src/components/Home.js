@@ -3,10 +3,58 @@ import MediaQuery from "react-responsive/src/Component";
 import ParticlesBg from "./particles-bg";
 import clipart from "../img/clipart.png";
 import Card from "react-bootstrap/Card";
+import OverlayTrigger from "react-bootstrap/OverlayTrigger";
+import Overlay from "react-bootstrap/Overlay";
+import Tooltip from "react-bootstrap/Tooltip";
+import Popover from "react-bootstrap/Popover";
+import Button from "react-bootstrap/Button";
 
 
 
 class Home extends React.Component {
+    constructor() {
+        super();
+        this.state = {
+            showTip: false,
+        }
+    }
+    getMsg = (e) => {
+        if (e === "react") {
+            return <a target="_blank" href="https://reactjs.org/"style={{color: "blue"}}>React, </a>
+        }
+        if (e === "angular") {
+            return <a target="_blank" href="https://angular.io/" style={{color: "red"}}>Angular, </a>
+        }
+        if (e === "vue") {
+            return <a target="_blank" href="https://angular.io/" style={{color: "green"}}>Vue, </a>
+        }
+    }
+
+    popover = (e, type) => {
+        return (
+            <OverlayTrigger
+                trigger="click"
+                placement="auto"
+                overlay={
+                    <Popover>
+                        <Popover.Content>
+                            Tech stack describing <br/>
+                             <a target="_blank" style={{color: "#18661f"}} href="https://mongodb.com"> Mongodb, </a>
+                             <a target="_blank" style={{color: "black"}} href="https://expressjs.com/">Express, </a>
+                            {this.getMsg(type)}
+                             <a target="_blank" style={{color: "#b0d95f"}} href="https://nodejs.org/en/">Node </a>
+                            <br/>
+                            {type === "react" ? <a target="_blank" href="https://www.geeksforgeeks.org/mern-stack/">Read more about it here!</a> : null}
+                            {type === "angular" ? <a target="_blank" href="https://www.sitepoint.com/introduction-mean-stack/">Read more about it here!</a> : null}
+                            {type === "vue" ? <a target="_blank" href="https://www.educative.io/edpresso/what-is-mevn-stack">Read more about it here!</a> : null}
+                        </Popover.Content>
+                    </Popover>
+                }
+            >
+                {e}
+            </OverlayTrigger>
+        )
+    }
 
     render() {
         return (
@@ -49,13 +97,16 @@ class Home extends React.Component {
                             put a few snippits of code together and watch something come to life! Its been my dream since I was
                             a kid to get in the development field! To that end I've been practicing c# for years! More recently
                             i've been learning javascript for some web development(front and backend) experience. I've learned
-                            several frameworks (Vue, React, & Angular). I'm also certified by Careerfoundry in the <span style={{color: "blue"}}>M.E.R.N</span>
-                            (or <span style={{color: "red"}}>M.E.A.N</span>... or... <span style={{color: "green"}}>M.E.V.N</span>... but that doesnt sound as cool) tech stack. I absolutely love
+                            several frameworks (Vue, React, & Angular). I'm also certified by Careerfoundry in the
+                            {this.popover(<span style={{color: "blue", cursor: "pointer"}}>M.E.R.N</span>, "react")}
+                            (or {this.popover(<span style={{color: "red", cursor: "pointer"}}>M.E.A.N</span>,  "angular")}
+                            ... or... {this.popover(<span style={{color: "green", cursor: "pointer"}}>M.E.V.N</span>,  "vue")}... but that doesnt sound as cool) tech stack. I absolutely love
                             what I do and I bring that passion and love to any project I work on.
                             <br/>
                             <br/>I know theres still a ton to learn. I learn new things every day and I'm up for any challenge that anyone can present to me!
                             <br/>
                             <br/>Specialities: Javascript & JS frameworks Vue, React, Angular, C#; Object-Oriented programming
+
                         </Card.Body>
                     </Card>
                     <Card className="mt-2 mb-5">
