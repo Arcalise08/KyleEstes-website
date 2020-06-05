@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.8d668f6d.chunk.css",
-    "main.js": "/static/js/main.ebe359c7.chunk.js",
-    "main.js.map": "/static/js/main.ebe359c7.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.82de50f5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.82de50f5.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.0e6f790c.chunk.js": "/static/js/2.0e6f790c.chunk.js",
-    "static/js/2.0e6f790c.chunk.js.map": "/static/js/2.0e6f790c.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.c87a5031044a09db72b6298394f5a829.js": "/precache-manifest.c87a5031044a09db72b6298394f5a829.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.8d668f6d.chunk.css.map": "/static/css/main.8d668f6d.chunk.css.map",
-    "static/js/2.0e6f790c.chunk.js.LICENSE.txt": "/static/js/2.0e6f790c.chunk.js.LICENSE.txt",
-    "static/media/clipart.png": "/static/media/clipart.ab41dc77.png",
-    "static/media/profile.jpg": "/static/media/profile.60c317b5.jpg"
+    "main.css": "/KyleEstes/static/css/main.8d668f6d.chunk.css",
+    "main.js": "/KyleEstes/static/js/main.0c785a0d.chunk.js",
+    "main.js.map": "/KyleEstes/static/js/main.0c785a0d.chunk.js.map",
+    "runtime-main.js": "/KyleEstes/static/js/runtime-main.12d40468.js",
+    "runtime-main.js.map": "/KyleEstes/static/js/runtime-main.12d40468.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/KyleEstes/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.0e6f790c.chunk.js": "/KyleEstes/static/js/2.0e6f790c.chunk.js",
+    "static/js/2.0e6f790c.chunk.js.map": "/KyleEstes/static/js/2.0e6f790c.chunk.js.map",
+    "index.html": "/KyleEstes/index.html",
+    "precache-manifest.b65ee474436caa128a2dbedaa4ae6056.js": "/KyleEstes/precache-manifest.b65ee474436caa128a2dbedaa4ae6056.js",
+    "service-worker.js": "/KyleEstes/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/KyleEstes/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.8d668f6d.chunk.css.map": "/KyleEstes/static/css/main.8d668f6d.chunk.css.map",
+    "static/js/2.0e6f790c.chunk.js.LICENSE.txt": "/KyleEstes/static/js/2.0e6f790c.chunk.js.LICENSE.txt",
+    "static/media/clipart.png": "/KyleEstes/static/media/clipart.ab41dc77.png",
+    "static/media/profile.jpg": "/KyleEstes/static/media/profile.60c317b5.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.82de50f5.js",
+    "static/js/runtime-main.12d40468.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.0e6f790c.chunk.js",
     "static/css/main.8d668f6d.chunk.css",
-    "static/js/main.ebe359c7.chunk.js"
+    "static/js/main.0c785a0d.chunk.js"
   ]
 }
