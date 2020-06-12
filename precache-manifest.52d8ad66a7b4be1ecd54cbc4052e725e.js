@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d1b7f7489f1129866b4ae924a5767f2c",
+    "revision": "d118814e8f0880d6040b782b43dbce40",
     "url": "/KyleEstes-website/index.html"
   },
   {
-    "revision": "9e05dbc3394d1aa2455d",
+    "revision": "3bbd47ec6a9e46188a5a",
     "url": "/KyleEstes-website/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "174653e5ac0ff2c23011",
+    "revision": "2cccbc031cae783a243d",
     "url": "/KyleEstes-website/static/css/main.d376c21d.chunk.css"
   },
   {
-    "revision": "9e05dbc3394d1aa2455d",
-    "url": "/KyleEstes-website/static/js/2.74063606.chunk.js"
+    "revision": "3bbd47ec6a9e46188a5a",
+    "url": "/KyleEstes-website/static/js/2.7e3f4327.chunk.js"
   },
   {
     "revision": "a5f655d830d088aa9894c35a94634b59",
-    "url": "/KyleEstes-website/static/js/2.74063606.chunk.js.LICENSE.txt"
+    "url": "/KyleEstes-website/static/js/2.7e3f4327.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "174653e5ac0ff2c23011",
-    "url": "/KyleEstes-website/static/js/main.c8b2e8d9.chunk.js"
+    "revision": "2cccbc031cae783a243d",
+    "url": "/KyleEstes-website/static/js/main.4f5b11b2.chunk.js"
   },
   {
     "revision": "b2e30a5066abeac60de3",
@@ -48,11 +48,27 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/KyleEstes-website/static/media/games-app.adecd662.jpg"
   },
   {
+    "revision": "ddc250127189a3b4ee4802e6c2493757",
+    "url": "/KyleEstes-website/static/media/github.ddc25012.svg"
+  },
+  {
+    "revision": "4088f34fa322e85342f0735770cde21a",
+    "url": "/KyleEstes-website/static/media/linkedin.4088f34f.svg"
+  },
+  {
+    "revision": "02a226dd133504d0b478c01e0a56ae06",
+    "url": "/KyleEstes-website/static/media/medium.02a226dd.svg"
+  },
+  {
     "revision": "bbae5ae29540b75ca6dcfefba946174d",
     "url": "/KyleEstes-website/static/media/meetup-app.bbae5ae2.jpg"
   },
   {
     "revision": "1b948bbed3004e8002f950396adfe4a4",
     "url": "/KyleEstes-website/static/media/my-quiz-app.1b948bbe.jpg"
+  },
+  {
+    "revision": "7e145c9eb60da95379f070be9920eca5",
+    "url": "/KyleEstes-website/static/media/twitter.7e145c9e.svg"
   }
 ]);
