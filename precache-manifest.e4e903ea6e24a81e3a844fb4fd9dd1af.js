@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d118814e8f0880d6040b782b43dbce40",
+    "revision": "2ed5083b263863ba1728a147e91d7577",
     "url": "/KyleEstes-website/index.html"
   },
   {
-    "revision": "3bbd47ec6a9e46188a5a",
+    "revision": "6005ac28377529261eb4",
     "url": "/KyleEstes-website/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "2cccbc031cae783a243d",
+    "revision": "e60476f5998b64a83fd2",
     "url": "/KyleEstes-website/static/css/main.d376c21d.chunk.css"
   },
   {
-    "revision": "3bbd47ec6a9e46188a5a",
-    "url": "/KyleEstes-website/static/js/2.7e3f4327.chunk.js"
+    "revision": "6005ac28377529261eb4",
+    "url": "/KyleEstes-website/static/js/2.c606236c.chunk.js"
   },
   {
     "revision": "a5f655d830d088aa9894c35a94634b59",
-    "url": "/KyleEstes-website/static/js/2.7e3f4327.chunk.js.LICENSE.txt"
+    "url": "/KyleEstes-website/static/js/2.c606236c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2cccbc031cae783a243d",
-    "url": "/KyleEstes-website/static/js/main.4f5b11b2.chunk.js"
+    "revision": "e60476f5998b64a83fd2",
+    "url": "/KyleEstes-website/static/js/main.3603b2c1.chunk.js"
   },
   {
     "revision": "b2e30a5066abeac60de3",
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d30c4a0ade8e0cff721078d829fe5e81",
     "url": "/KyleEstes-website/static/media/My-Portfolio-Website.d30c4a0a.jpg"
+  },
+  {
+    "revision": "824dd3beba08720be00b33adad519b32",
+    "url": "/KyleEstes-website/static/media/Pokedex-JS.824dd3be.jpg"
   },
   {
     "revision": "ab41dc77577b94310abf34a39624bdda",
@@ -66,6 +70,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1b948bbed3004e8002f950396adfe4a4",
     "url": "/KyleEstes-website/static/media/my-quiz-app.1b948bbe.jpg"
+  },
+  {
+    "revision": "3cbdffb01c52fb4a5a02648845a2a07f",
+    "url": "/KyleEstes-website/static/media/to-do-app.3cbdffb0.jpg"
   },
   {
     "revision": "7e145c9eb60da95379f070be9920eca5",
