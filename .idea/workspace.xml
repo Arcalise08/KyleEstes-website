@@ -10,26 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f3c20b8-95b2-461b-9477-85f1ae974cc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/particle-projects/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/particle-projects/dist/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/particle-projects/dist/index.es.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/particle-projects/dist/index.es.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/particle-projects/dist/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/particle-projects/dist/index.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/particle-projects/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/KatChat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/My-Portfolio-Website.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/Pokedex-JS.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/dnd-app.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/games-app.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/meetup-app.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/my-quiz-app.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/to-do-app.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ProjectCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ProjectCard.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Projects.js" afterDir="false" />
-    </list>
+    <list default="true" id="3f3c20b8-95b2-461b-9477-85f1ae974cc7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -113,7 +94,7 @@
       <workItem from="1591317493972" duration="1138000" />
       <workItem from="1591318701966" duration="2041000" />
       <workItem from="1591321110528" duration="8039000" />
-      <workItem from="1591916444603" duration="6836000" />
+      <workItem from="1591916444603" duration="7535000" />
     </task>
     <servers />
   </component>
