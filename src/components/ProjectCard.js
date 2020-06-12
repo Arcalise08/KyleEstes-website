@@ -120,26 +120,26 @@ class ProjectCard extends React.Component {
                             <a href={project.homepage } target="_blank">Website Link</a>
                             : null}
                             <br/>
-
+                    <Modal show={this.state.showImg} onHide={() => this.setState({showImg: false})}>
+                        <Modal.Header closeButton>
+                            <Modal.Title>{project.name}</Modal.Title>
+                        </Modal.Header>
+                        <Modal.Body>
+                            {this.projectIMG()}
+                        </Modal.Body>
+                        <Modal.Footer>
+                            <Button onClick={() => this.setState({showImg: false})} variant="primary">
+                                Close
+                            </Button>
+                        </Modal.Footer>
+                    </Modal>
                 </Card.Body>
                 <Card.Footer>
                     <div>
                         <Button className="col btn btn-dark" onClick={()=> this.setState({showImg: true})}>{this.state.showImg ? "Nice..." : "See Details"}</Button>
                     </div>
                 </Card.Footer>
-                <Modal show={this.state.showImg} onHide={() => this.setState({showImg: false})}>
-                    <Modal.Header closeButton>
-                        <Modal.Title>{project.name}</Modal.Title>
-                    </Modal.Header>
-                    <Modal.Body>
-                        {this.projectIMG()}
-                    </Modal.Body>
-                    <Modal.Footer>
-                        <Button onClick={() => this.setState({showImg: false})} variant="primary">
-                            Close
-                        </Button>
-                    </Modal.Footer>
-                </Modal>
+
             </Card>
         )
     }
