@@ -1,6 +1,6 @@
 import React from "react";
 import MediaQuery from "react-responsive/src/Component";
-import ParticlesBg from "./particles-bg";
+import ParticlesBg from "./particle-projects";
 import axios from 'axios';
 import ProjectCard from "./ProjectCard";
 
@@ -35,10 +35,13 @@ constructor() {
                         <ParticlesBg color="#b51204" type="cobweb" bg={true}/>
                     </MediaQuery>
                     <h1 className="display-2 text-center mt-3 mb-3">My Projects</h1>
-                    {this.state.projects.length > 0 ? this.state.projects.map(project => <ProjectCard key={project.id} project={project}/>): null}
-                    <MediaQuery maxWidth={576}>
-                        <ParticlesBg num="20" color="#b51204" type="cobweb" bg={true}/>
-                    </MediaQuery>
+                    <div className="col-md-6 mx-auto">
+                        <div className="row">
+                            {this.state.projects.length > 0 ? this.state.projects.map(project => <ProjectCard key={project.id} project={project}/>): null}
+                        </div>
+                    </div>
+
+
 
                     <small className='d-block text-center mt-3'>Made with <span style={{color: "#3293a8"}}>React</span> by <span style={{color:"red"}}>Julian Estes</span></small>
 
