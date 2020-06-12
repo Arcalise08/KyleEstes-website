@@ -35,10 +35,12 @@ constructor() {
                         <ParticlesBg color="#b51204" type="cobweb" bg={true}/>
                     </MediaQuery>
                     <h1 className="display-2 text-center mt-3 mb-3">My Projects</h1>
-                    <div className="col-md-6 mx-auto">
-                        <div className="row">
-                            {this.state.projects.length > 0 ? this.state.projects.map(project => <ProjectCard key={project.id} project={project}/>): null}
+                    <div className="col">
+                        <div className="row justify-content-center">
+                                {this.state.projects.length > 0 ? this.state.projects.map(project => <ProjectCard key={project.id} project={project}/>): null}
+
                         </div>
+
                     </div>
 
 

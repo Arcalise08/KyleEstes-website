@@ -63,7 +63,7 @@ class ProjectCard extends React.Component {
         if (project.name === "my-quiz-app") {
             return (
                 <div>
-                    <h4 style={{textAlign:"center"}}>An application for chatting with your friends made with react native.</h4>
+                    <h4 style={{textAlign:"center"}}>An application for playing quick rounds of trivia. made with angular!</h4>
                     <img className="col" src={require('../img/my-quiz-app.jpg')}/>
                 </div>
 
@@ -104,8 +104,8 @@ class ProjectCard extends React.Component {
         const { project } = this.props
         return (
 
-            <Card className=" mx-auto my-2 col-md-6">
-                <Card.Title >
+            <Card className="mx-1 my-2 p-0 d-flex col-md-4">
+                <Card.Title className="ml-3" >
                     <h3 className="mt-3">{project.name}</h3>
                 </Card.Title>
                 <Card.Body className="pt-0">
