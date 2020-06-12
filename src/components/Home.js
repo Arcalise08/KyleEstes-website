@@ -118,10 +118,18 @@ class Home extends React.Component {
                     <a target="_blank" href="mailTo:Therealendergate@gmail.com">here.</a></span>
                             <br/>
                             <br/>
-                            I also reply relatively quickly on <a target="_blank" href="https://www.linkedin.com/in/julian-estes-411b711a8/"> Linkedin.</a>
+                            Heres a few of my other things. You can reach me on any of them!
                             <br/>
                             <br/>
-                            Dont forget to also follow my projects on <a target="_blank" href="https://github.com/Arcalise08">Github!</a> Im uploading new stuff every day!
+                            <div className="text-center">
+                                <a target="_blank" className="mx-2" href="https://www.linkedin.com/in/julian-estes-411b711a8/"><img style={{width:65,height:65}} src={require('../img/linkedin.svg')}/></a>
+                                <a target="_blank" className="mx-2" href="https://github.com/Arcalise08"><img style={{width:65,height:65}} src={require('../img/github.svg')}/></a>
+                                <a target="_blank" className="mx-2" href="https://medium.com/@demonata08"><img style={{width:65,height:65}} src={require('../img/medium.svg')}/></a>
+                                <a target="_blank" className="mx-2" href="https://twitter.com/Arcalise08"><img style={{width:65,height:65}} src={require('../img/twitter.svg')}/></a>
+                            </div>
+
+
+
                         </Card.Body>
                     </Card>
                 </div>
