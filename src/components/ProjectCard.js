@@ -24,6 +24,15 @@ class ProjectCard extends React.Component {
 
             )
         }
+        if (project.name === "to-do-app") {
+            return (
+                <div>
+                    <h4 style={{textAlign:"center"}}>An application for chatting with your friends made with react native.</h4>
+                    <img className="col" src={require('../img/to-do-app.jpg')}/>
+                </div>
+
+            )
+        }
         if (project.name === "DnD-App") {
             return (
                 <div>
@@ -64,7 +73,7 @@ class ProjectCard extends React.Component {
             return (
                 <div>
                     <h4 style={{textAlign:"center"}}>A pokedex! What more do you need to know?</h4>
-                    <img className="col" src={require('../img/my-quiz-app.jpg')}/>
+                    <img className="col" src={require('../img/Pokedex-JS.jpg')}/>
                 </div>
 
             )
