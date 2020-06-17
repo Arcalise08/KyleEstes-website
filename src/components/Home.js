@@ -92,11 +92,11 @@ class Home extends React.Component {
                             About Me
                         </Card.Title>
                         <Card.Body style={{fontFamily: "Lato"}}>
-                            So I guess first off, My name is <span style={{color:"#802f1d"}}>Julian Estes</span> however i go by <span style={{color:"#327ba8"}}>Kyle Estes!</span>
-                            I've loved software and game development since i was a kid. I've always been excited in how you can
+                            So I guess first off, My name is <span style={{color:"#802f1d"}}>Julian Estes</span> however i go by <span style={{color:"#327ba8"}}>Kyle Estes! </span>
+                            I've loved software and game development since I was a kid. I've always been excited in how you can
                             put a few snippits of code together and watch something come to life! Its been my dream since I was
                             a kid to get in the development field! To that end I've been practicing c# for years! More recently
-                            i've been learning javascript for some web development(front and backend) experience. I've learned
+                            I've been learning javascript for some web development(front and backend) experience. I've learned
                             several frameworks (Vue, React, & Angular). I'm also certified by Careerfoundry in the
                             {this.popover(<span style={{color: "blue", cursor: "pointer"}}>M.E.R.N</span>, "react")}
                             (or {this.popover(<span style={{color: "red", cursor: "pointer"}}>M.E.A.N</span>,  "angular")}
@@ -133,7 +133,7 @@ class Home extends React.Component {
                         </Card.Body>
                     </Card>
                 </div>
-                <small className='d-block text-center mt-3'><a target="_blank" href="https://media.giphy.com/media/lXiRoPt9Rkzt7yLYY/giphy.gif">Made</a> with <span style={{color: "#3293a8"}}>React</span> by <span style={{color:"red"}}>Julian Estes</span></small>
+                <small className='d-block text-center mt-3'><a target="_blank" className="hideMe" href="https://media.giphy.com/media/lXiRoPt9Rkzt7yLYY/giphy.gif">Made</a> with <span style={{color: "#3293a8"}}>React</span> by <span style={{color:"red"}}>Julian Estes</span></small>
             </div>
         )
     }

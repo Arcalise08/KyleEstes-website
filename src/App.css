@@ -11,5 +11,13 @@
 .card {
     border: 1px solid cornflowerblue !important;
 }
+.hideMe {
+    text-decoration-line: none;
+    color: black;
+}
+.hideMe:hover {
+    text-decoration-line: none;
+    color:black;
+}
 
 
