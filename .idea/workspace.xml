@@ -12,8 +12,8 @@
   <component name="ChangeListManager">
     <list default="true" id="3f3c20b8-95b2-461b-9477-85f1ae974cc7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ProjectCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ProjectCard.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Projects.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +50,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../5eSessions" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -100,6 +100,8 @@
       <workItem from="1591321110528" duration="8039000" />
       <workItem from="1591916444603" duration="9917000" />
       <workItem from="1591940919051" duration="888000" />
+      <workItem from="1592326533127" duration="661000" />
+      <workItem from="1592327197092" duration="999000" />
     </task>
     <servers />
   </component>
@@ -142,9 +144,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="629" y="298" key="EditFileWatcherDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591254741462" />
-    <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1591916489937">
-      <screen x="72" y="27" width="1848" height="1053" />
+    <state x="735" y="280" width="424" height="491" key="FileChooserDialogImpl" timestamp="1592338127833">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="735" y="280" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592338127833" />
     <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1591916489937" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1591306157126">
       <screen x="0" y="0" width="1920" height="1040" />

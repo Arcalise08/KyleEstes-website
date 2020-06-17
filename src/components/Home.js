@@ -133,7 +133,7 @@ class Home extends React.Component {
                         </Card.Body>
                     </Card>
                 </div>
-                <small className='d-block text-center mt-3'>Made with <span style={{color: "#3293a8"}}>React</span> by <span style={{color:"red"}}>Julian Estes</span></small>
+                <small className='d-block text-center mt-3'><a target="_blank" href="https://media.giphy.com/media/lXiRoPt9Rkzt7yLYY/giphy.gif">Made</a> with <span style={{color: "#3293a8"}}>React</span> by <span style={{color:"red"}}>Julian Estes</span></small>
             </div>
         )
     }
