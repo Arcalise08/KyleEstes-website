@@ -19,5 +19,14 @@
     text-decoration-line: none;
     color:black;
 }
+.customEmail {
+    cursor: pointer;
+    font-size: small;
+    color: blue;
+    text-decoration-line: underline;
+}
+.customEmail:hover {
+    text-decoration-line: none;
+}
 
 

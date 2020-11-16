@@ -1,5 +1,4 @@
 import React from 'react';
-import Unity, { UnityContent } from "react-unity-webgl";
 import NavMenu from './components/NavBar';
 import {
     HashRouter as Router,
@@ -14,10 +13,6 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Home from "./components/Home";
 import Projects from "./components/Projects";
 
-const unityContent = new UnityContent(
-    "MyGame/Build.json",
-    "MyGame/UnityLoader.js"
-);
 
 function App() {
 

@@ -12,8 +12,12 @@
   <component name="ChangeListManager">
     <list default="true" id="3f3c20b8-95b2-461b-9477-85f1ae974cc7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,22 +55,26 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../5eSessions" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../RouletteWheel" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="nodejs_interpreter_path" value="node" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path" value="$APPLICATION_CONFIG_DIR$/node/node-v12.13.1-win-x64/node" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Demon\OneDrive\Desktop\School Projects\FullStack\mysite\src\__test__" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/components" />
       <recent name="C:\Users\Demon\OneDrive\Desktop\School Projects\FullStack\mysite\src\components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Demon\OneDrive\Desktop\School Projects\FullStack\mysite\src\__test__" />
     </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
@@ -103,6 +111,9 @@
       <workItem from="1591940919051" duration="888000" />
       <workItem from="1592326533127" duration="661000" />
       <workItem from="1592327197092" duration="999000" />
+      <workItem from="1592425196899" duration="1933000" />
+      <workItem from="1605133872365" duration="6904000" />
+      <workItem from="1605196662340" duration="774000" />
     </task>
     <servers />
   </component>
@@ -125,38 +136,25 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="845" y="382" width="610" height="320" key="#Notifications" timestamp="1591254793057">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2428" y="592" key="#ESLint" timestamp="1605133999138">
+      <screen x="0" y="0" width="5120" height="1400" />
     </state>
-    <state x="845" y="382" width="610" height="320" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1591254793057" />
-    <state x="724" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591308800279">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2428" y="592" key="#ESLint/0.0.5120.1400@0.0.5120.1400" timestamp="1605133999138" />
+    <state x="2340" y="454" key="FileChooserDialogImpl" timestamp="1605197435326">
+      <screen x="0" y="0" width="5120" height="1400" />
     </state>
-    <state x="724" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1591308800279" />
-    <state x="640" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1591317427149">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2340" y="454" key="FileChooserDialogImpl/0.0.5120.1400@0.0.5120.1400" timestamp="1605197435326" />
+    <state x="2061" y="344" key="SettingsEditor" timestamp="1605133991986">
+      <screen x="0" y="0" width="5120" height="1400" />
     </state>
-    <state x="640" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591317427149" />
-    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591257635498">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2061" y="344" key="SettingsEditor/0.0.5120.1400@0.0.5120.1400" timestamp="1605133991986" />
+    <state x="2216" y="330" key="run.anything.popup" timestamp="1605139713201">
+      <screen x="0" y="0" width="5120" height="1400" />
     </state>
-    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591257635498" />
-    <state x="629" y="298" key="EditFileWatcherDialog" timestamp="1591254741462">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2216" y="330" key="run.anything.popup/0.0.5120.1400@0.0.5120.1400" timestamp="1605139713201" />
+    <state x="2282" y="536" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1605135075193">
+      <screen x="0" y="0" width="5120" height="1400" />
     </state>
-    <state x="629" y="298" key="EditFileWatcherDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591254741462" />
-    <state x="735" y="280" width="424" height="491" key="FileChooserDialogImpl" timestamp="1592338127833">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="735" y="280" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592338127833" />
-    <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1591916489937" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1591306157126">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591306157126" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1591314004794">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591314004794" />
+    <state x="2282" y="536" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.5120.1400@0.0.5120.1400" timestamp="1605135075193" />
   </component>
 </project>
